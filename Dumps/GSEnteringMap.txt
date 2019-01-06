@@ -1,0 +1,60 @@
+10397965:
+GStoC Packet MapLoadHeader
+{
+    Header 466
+    Byte  255
+    Byte  0
+    Byte  0
+    Byte  0
+}
+
+
+10397965:
+GStoC Packet MapLoadPlayerName
+{
+    Header 467
+    String  Crocodileoo
+}
+
+
+10397965:
+GStoC Packet MapLoadServerInfo
+{
+    Header 480
+    Dword  6
+    Dword  138
+    Dword  2007
+    Dword  1
+    Byte  0
+    Byte  0
+}
+
+
+10397965:
+GStoC Packet MapLoadSpawnPoint
+{
+    Header 484
+    Vec3  
+    {
+        float x -15120.1
+        float y 23239.3
+        float z -2843.47
+    }
+}
+
+
+10397965:
+GStoC Packet MapLoadPreviousMap
+{
+    Header 475
+    Word  138
+}
+
+
+10397965:
+GStoC Packet SpawnInfoComplete
+{
+    Header 479
+}
+
+

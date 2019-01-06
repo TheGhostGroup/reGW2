@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5F01AC85-A3ED-4A70-BDFD-EB15F74B83A8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GW2Emu.Common</RootNamespace>
+    <AssemblyName>GW2Emu.Common</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProductVersion>12.0.0</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto">
+      <HintPath>..\A_SERVER\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="LZ4Sharp">
+      <HintPath>..\A_SERVER\LZ4Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MongoDB.Bson">
+      <HintPath>MongoDB\MongoDB.Bson.dll</HintPath>
+    </Reference>
+    <Reference Include="MongoDB.Driver">
+      <HintPath>MongoDB\MongoDB.Driver.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Security">
+      <HintPath>Cryptography\Mono.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Xml.Serialization" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Collections\DataCollection.cs" />
+    <Compile Include="Cryptography\DiffieHellman.cs" />
+    <Compile Include="Cryptography\Keys.cs" />
+    <Compile Include="Cryptography\RC4.cs" />
+    <Compile Include="Cryptography\Utilities.cs" />
+    <Compile Include="Gate Server\APacketHandler.cs" />
+    <Compile Include="Gate Server\AuthEngine.cs" />
+    <Compile Include="Gate Server\Connection.cs" />
+    <Compile Include="Gate Server\ConnectionBuffer.cs" />
+    <Compile Include="Gate Server\Extensions.cs" />
+    <Compile Include="Gate Server\GtSGlobal.cs" />
+    <Compile Include="Gate Server\ICipher.cs" />
+    <Compile Include="Gate Server\Interfaces\IGtSAuthEngine.cs" />
+    <Compile Include="Gate Server\Interfaces\IGtSNetworkEngine.cs" />
+    <Compile Include="Gate Server\Messages\AccountUserInfo.cs" />
+    <Compile Include="Gate Server\Messages\CreateSessionMsg.cs" />
+    <Compile Include="Gate Server\Messages\ErrorMsg.cs" />
+    <Compile Include="Gate Server\Messages\GameAccountsMsg.cs" />
+    <Compile Include="Gate Server\Messages\GameTokenMsg.cs" />
+    <Compile Include="Gate Server\Messages\HostnameMsg.cs" />
+    <Compile Include="Gate Server\Messages\LoginMsg.cs" />
+    <Compile Include="Gate Server\Messages\PrUserInfoMsg.cs" />
+    <Compile Include="Gate Server\Messages\SetWatch.cs" />
+    <Compile Include="Gate Server\Messages\StsMessage.cs" />
+    <Compile Include="Gate Server\Messages\UserInfoMsg.cs" />
+    <Compile Include="Gate Server\NetworkEngine.cs" />
+    <Compile Include="Gate Server\PacketHandler.cs" />
+    <Compile Include="Gate Server\Requests\HandshakeRequest.cs" />
+    <Compile Include="Gate Server\Responses\HandshakeResponse.cs" />
+    <Compile Include="Gate Server\Responses\StsResponse.cs" />
+    <Compile Include="Gate Server\Responses\TlsResponse.cs" />
+    <Compile Include="Gate Server\Services\AuthService.cs" />
+    <Compile Include="Gate Server\Services\PresenceService.cs" />
+    <Compile Include="Gate Server\Services\SessionService.cs" />
+    <Compile Include="Gate Server\TcpServer.cs" />
+    <Compile Include="Gate Server\TlsConnection.cs" />
+    <Compile Include="Gate Server\Tools\AsyncLock.cs" />
+    <Compile Include="Gate Server\Tools\AsyncSemaphore.cs" />
+    <Compile Include="Gate Server\Tools\PseudoRandomFunction.cs" />
+    <Compile Include="Gate Server\Utils.cs" />
+    <Compile Include="GW2\Account.cs" />
+    <Compile Include="GW2\Appearance.cs" />
+    <Compile Include="GW2\Character.cs" />
+    <Compile Include="GW2\CharacterData.cs" />
+    <Compile Include="GW2\ColoredItem.cs" />
+    <Compile Include="GW2\Equipment.cs" />
+    <Compile Include="GW2\Item.cs" />
+    <Compile Include="Network\Client.cs" />
+    <Compile Include="Network\IPacketOut.cs" />
+    <Compile Include="Network\Listener.cs" />
+    <Compile Include="Network\NetIDManager.cs" />
+    <Compile Include="Network\Packet.cs" />
+    <Compile Include="Network\PacketEventHandler.cs" />
+    <Compile Include="Network\PacketManager.cs" />
+    <Compile Include="Network\PacketReader.cs" />
+    <Compile Include="Network\PacketWriter.cs" />
+    <Compile Include="Network\SecurePacketBasedClient.cs" />
+    <Compile Include="Network\Server.cs" />
+    <Compile Include="Utils\Deserializer.cs" />
+    <Compile Include="Utils\Log.cs" />
+    <Compile Include="Utils\WorldPosition.cs" />
+    <Compile Include="MongoDB\Collection.cs" />
+    <Compile Include="MongoDB\Database.cs" />
+    <Compile Include="MongoDB\ICollection.cs" />
+    <Compile Include="Utils\Optional.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utils\Serializer.cs" />
+    <Compile Include="Utils\ThreadExecutor.cs" />
+    <Compile Include="Utils\UID.cs" />
+    <Compile Include="Utils\Vector2.cs" />
+    <Compile Include="Utils\Vector3.cs" />
+    <Compile Include="Utils\Vector4.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

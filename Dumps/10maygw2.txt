@@ -1,0 +1,1046 @@
+245505450:
+CtoLS Packet 
+{
+    Header 2
+    String  user
+    String  USER
+}
+
+
+245505450:
+CtoLS Packet 
+{
+    Header 3
+    Dword  18200
+    fixed size buffer  c8 ad 68 ba 22 78 2d 4c 97 e3 92 12 d2 06 2a 9d 
+
+}
+
+
+245505637:
+CtoLS Packet 
+{
+    Header 1
+    Dword  245505637
+}
+
+
+245505637:
+CtoLS Packet 
+{
+    Header 10
+    Dword  1
+    UID  A983638D-7652-E211-8756-78E7D1936222
+    UID  B0275B9A-EC17-4454-A1AA-7A31071398DC
+    String  
+}
+
+
+245506027:
+LStoC Packet 
+{
+    Header 2
+    Dword  902367163
+}
+
+
+245506027:
+LStoC Packet 
+{
+    Header 1
+    Dword  245505637
+}
+
+
+245506027:
+LStoC Packet 
+{
+    Header 4
+    Dword  1
+    Dword  21
+    Dword  6
+    Dword  3
+    Dword  2114
+}
+
+
+245506479:
+CtoLS Packet 
+{
+    Header 2
+    String  user
+    String  USER
+}
+
+
+245506495:
+CtoLS Packet 
+{
+    Header 3
+    Dword  18200
+    fixed size buffer  c8 ad 68 ba 22 78 2d 4c 97 e3 92 12 d2 06 2a 9d 
+
+}
+
+
+245506557:
+LStoC Packet 
+{
+    Header 2
+    Dword  858111367
+}
+
+
+245506573:
+CtoLS Packet 
+{
+    Header 1
+    Dword  245506571
+}
+
+
+245506589:
+CtoLS Packet 
+{
+    Header 10
+    Dword  2
+    UID  A983638D-7652-E211-8756-78E7D1936222
+    UID  0DDA0CFE-0678-47AD-853B-C3B6F6091F57
+    String  
+}
+
+
+245507493:
+LStoC Packet 
+{
+    Header 1
+    Dword  245506571
+}
+
+
+245507493:
+LStoC Packet 
+{
+    Header 17
+    Dword  2
+    UID  0340D2A8-7A52-E211-BCD1-441EA102B1B6
+    Dword  0
+    String  Char
+    large buffer  07 0f 00 31 3c 01 09 00 05 7b 00 00 7e 40 63 7f 
+87 7e 03 00 17 0c 0d 00 b2 67 6b 57 78 4f 5e 4f 
+05 02 03 00 11 00 00 82 80 80 84 80 80 80 80 80 
+80 80 00 3c 84 00 00 3c 84 00 00 00 00 52 13 00 
+00 0d 00 d3 00 00 00 00 00 0f 19 00 00 d3 00 0d 
+00 d3 00 00 00 9e 12 00 00 0d 00 d3 00 00 00 00 
+00 b1 12 00 80 e2 00 d3 00 d4 00 00 00 ac 12 00 
+00 0d 00 d3 00 00 00 00 00 be 12 00 00 0d 00 d3 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 c3 24 b1 a0 
+}
+
+
+245507493:
+LStoC Packet 
+{
+    Header 17
+    Dword  2
+    UID  26E439C9-DF93-E211-BCD1-441EA102B1B6
+    Dword  0
+    String  Character
+    large buffer  07 0f 00 01 02 03 07 00 05 7f 00 00 80 7f 7e 7f 
+7e 7f 03 00 17 0c 11 00 80 7f 7f 80 7f 7f 7e 7f 
+7f 02 08 00 12 00 00 80 80 80 80 80 80 80 80 80 
+80 80 00 46 82 00 00 00 00 00 00 00 00 48 19 00 
+00 f9 00 b3 00 f9 00 00 00 46 19 00 00 f9 00 e0 
+00 b3 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 90 19 00 00 b3 00 b3 00 6b 00 00 00 49 19 00 
+00 b3 00 20 01 f9 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 43 d4 c1 21 
+}
+
+
+245507493:
+LStoC Packet 
+{
+    Header 17
+    Dword  2
+    UID  2CAE39B4-0479-E211-BCD1-441EA102B1B6
+    Dword  0
+    String  Agent
+    large buffer  07 13 00 03 05 04 00 00 04 80 01 00 80 ff a7 88 
+ff d0 05 00 1e 00 02 00 80 80 7e c7 80 7a 80 ae 
+82 01 0b 00 0a 09 1d 8e 80 82 80 80 80 80 80 80 
+80 80 05 67 7e 00 00 67 7e 00 00 00 00 48 19 00 
+00 cc 00 d3 00 b3 00 00 00 46 19 00 00 cc 00 10 
+00 b3 00 00 00 7b 18 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 49 19 00 
+00 cc 00 10 00 b3 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 36 21 4f 46 
+}
+
+
+245507493:
+LStoC Packet 
+{
+    Header 17
+    Dword  2
+    UID  0B54CC70-BF8F-E211-BCD1-441EA102B1B6
+    Dword  0
+    String  Mr Server
+    large buffer  07 22 00 00 02 03 ff 00 08 80 00 00 80 80 4c 80 
+80 80 00 00 00 00 01 00 c1 80 80 43 80 80 80 80 
+80 04 08 00 0d 03 02 80 80 80 7b 00 80 80 80 72 
+80 80 08 46 82 00 00 88 7d 00 00 00 00 48 19 00 
+00 31 01 e2 00 73 00 00 00 46 19 00 00 31 01 e0 
+00 e2 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 90 19 00 00 00 00 00 00 00 00 00 00 49 19 00 
+00 31 01 e2 00 73 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 09 8f bd dd 
+}
+
+
+245507493:
+LStoC Packet 
+{
+    Header 10
+    Dword  2
+    large buffer  50 46 01 00 00 00 0c 00 74 63 63 61 63 6f 72 65 
+0c 00 00 00 00 00 10 00 00 00 00 00 aa 45 00 00 
+75 78 61 63 2c 00 00 00 02 00 10 00 1c 00 00 00 
+06 e5 62 00 01 55 55 00 03 7f 00 01 00 00 01 00 
+00 00 06 00 00 00 00 00 e7 00 00 00 01 00 00 00 
+12 00 00 00 70 6c 72 73 24 00 00 00 00 00 10 00 
+00 00 00 00 fc 01 00 00 00 30 ef 01 00 00 04 01 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+67 75 73 75 18 00 00 00 01 00 10 00 08 00 00 00 
+00 00 00 00 00 00 00 00 01 00 00 00 04 00 00 00 
+69 6e 70 74 20 00 00 00 00 00 10 00 0f 00 00 00 
+01 00 00 00 04 00 00 00 08 00 00 00 01 5d 00 01 
+00 00 00 04 00 00 00 00 63 68 61 74 54 00 00 00 
+01 00 10 00 3c 00 00 00 08 01 01 00 02 00 00 00 
+08 00 00 00 79 01 ce 00 08 dd 0f 00 00 0f 00 00 
+00 01 06 02 00 00 00 0f 00 00 00 01 4d 00 61 00 
+69 00 6e 00 00 00 43 00 6f 00 6d 00 62 00 61 00 
+74 00 00 00 03 00 00 00 08 00 00 00 15 00 00 00 
+1f 00 00 00 75 6d 61 70 10 00 00 00 00 00 10 00 
+00 00 00 00 02 ff 00 55 01 aa 00 00 64 6c 6f 67 
+6c 00 00 00 00 00 10 00 59 00 00 00 09 00 00 00 
+04 00 00 00 00 24 fe dc 01 6e 01 92 fe 12 6c 00 
+f5 01 6f 02 14 00 00 d9 fd b9 01 76 01 9a fe 00 
+41 fe 21 02 6e 01 92 fe 0a 57 00 9c 01 3e 00 dc 
+01 04 36 01 64 00 c7 00 bd ff 00 9f fe 97 01 22 
+01 aa fe 00 38 ff 74 01 56 01 c0 fe 00 f0 fe 10 
+01 21 01 4d ff 01 00 00 00 04 00 00 00 00 00 00 
+
+}
+
+
+245507493:
+LStoC Packet 
+{
+    Header 27
+    Dword  2
+    ArrayField  
+    {
+        struct  
+        {
+            Dword  0
+            Dword  8
+        }
+        struct  
+        {
+            Dword  1
+            Dword  59
+        }
+        struct  
+        {
+            Dword  2
+            Dword  1
+        }
+        struct  
+        {
+            Dword  3
+            Dword  4
+        }
+        struct  
+        {
+            Dword  4
+            Dword  4
+        }
+        struct  
+        {
+            Dword  5
+            Dword  4
+        }
+        struct  
+        {
+            Dword  6
+            Dword  3
+        }
+        struct  
+        {
+            Dword  7
+            Dword  4
+        }
+        struct  
+        {
+            Dword  8
+            Dword  8
+        }
+        struct  
+        {
+            Dword  9
+            Dword  4
+        }
+        struct  
+        {
+            Dword  10
+            Dword  4
+        }
+        struct  
+        {
+            Dword  11
+            Dword  4
+        }
+        struct  
+        {
+            Dword  12
+            Dword  1
+        }
+        struct  
+        {
+            Dword  13
+            Dword  8
+        }
+        struct  
+        {
+            Dword  14
+            Dword  4
+        }
+        struct  
+        {
+            Dword  15
+            Dword  10
+        }
+        struct  
+        {
+            Dword  16
+            Dword  1
+        }
+        struct  
+        {
+            Dword  17
+            Dword  1
+        }
+        struct  
+        {
+            Dword  18
+            Dword  4
+        }
+        struct  
+        {
+            Dword  19
+            Dword  1
+        }
+        struct  
+        {
+            Dword  20
+            Dword  1
+        }
+        struct  
+        {
+            Dword  21
+            Dword  1
+        }
+        struct  
+        {
+            Dword  22
+            Dword  1
+        }
+        struct  
+        {
+            Dword  23
+            Dword  1
+        }
+        struct  
+        {
+            Dword  24
+            Dword  8
+        }
+        struct  
+        {
+            Dword  25
+            Dword  8
+        }
+        struct  
+        {
+            Dword  26
+            Dword  8
+        }
+        struct  
+        {
+            Dword  27
+            Dword  8
+        }
+        struct  
+        {
+            Dword  28
+            Dword  8
+        }
+        struct  
+        {
+            Dword  29
+            Dword  8
+        }
+    }
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 8
+    Dword  2
+    UID  0D0E94CF-7552-E211-BCD1-441EA102B1B6
+    UID  0340D2A8-7A52-E211-BCD1-441EA102B1B6
+    Dword  2
+    Dword  5
+    Dword  389876543
+    Dword  2007
+    Dword  2007
+    Dword  3
+    fixed size buffer  ef 51 48 ca 2d 00 3f c8 6f e2 b1 37 21 b9 87 0d 
+d9 47 1f e6 71 d7 48 56 9e d3 aa 4c a6 61 f7 75 
+
+    ArrayField  
+    {
+        struct  
+        {
+            Word  2
+            Word  1
+            Dword  1109884696
+            Dword  0
+            Dword  0
+        }
+    }
+    fixed size buffer  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 16
+    Dword  2
+    UID  0D0E94CF-7552-E211-BCD1-441EA102B1B6
+    Dword  0
+    Dword  8807123
+    Dword  168
+    Dword  1800
+    Dword  0
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 23
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  1001
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  1002
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  1003
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  1004
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  1005
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  1006
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  1007
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  1008
+    Dword  3
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  1009
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  1010
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  1011
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  1012
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  1013
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  1014
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  1015
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  1016
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  1017
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  1018
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  1019
+    Dword  3
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  1020
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  1021
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  1022
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  1023
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  1024
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  2001
+    Dword  0
+    Dword  500
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  2002
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  2003
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  2004
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  2005
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  2006
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  2007
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  2008
+    Dword  0
+    Dword  500
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  2009
+    Dword  0
+    Dword  500
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  2010
+    Dword  0
+    Dword  500
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  2011
+    Dword  0
+    Dword  500
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  2012
+    Dword  0
+    Dword  500
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  2013
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  2014
+    Dword  0
+    Dword  500
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  2101
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  2102
+    Dword  0
+    Dword  500
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  2103
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  2104
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  2105
+    Dword  0
+    Dword  500
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  2201
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  2202
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  2203
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  2204
+    Dword  0
+    Dword  500
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  2205
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  2206
+    Dword  0
+    Dword  500
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  2207
+    Dword  0
+    Dword  500
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 25
+    Dword  2301
+    Dword  2
+    Dword  1800
+    Dword  168
+}
+
+
+245507696:
+LStoC Packet 
+{
+    Header 24
+}
+
+
+245507727:
+CtoLS Packet 
+{
+    Header 4
+    small buffer  03 00 60 00 02 00 db 03 f6 08 62 0f 41 75 74 68 
+65 6e 74 69 63 41 4d 44 06 01 fc 0f 06 00 00 00 
+80 94 00 00 a6 02 00 00 02 10 00 00 fa 03 20 90 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 40 01 00 00 
+
+    UID  BA68ADC8-7822-4C2D-97E3-9212D2062A9D
+}
+
+
+245507774:
+CtoLS Packet 
+{
+    Header 34
+    Dword  0
+}
+
+

@@ -1,0 +1,4422 @@
+248128295:
+CtoGS Packet 
+{
+    Header 120
+    Byte  2
+    Dword  0
+    Word  2294
+    String  AuthenticAMD
+    Dword  532545495
+    Word  65
+    Dword  84
+    Dword  0
+    Dword  73
+    Word  8192
+    Dword  0
+    Word  77
+    Word  111
+    Word  98
+    Word  105
+    Word  108
+    Byte  105
+    UID  79007400-2000-5200-0061-00640065006F
+    String  My warband's greatest battle became known as the Third Battle of the Brand.
+}
+
+
+248130510:
+GStoC Packet 
+{
+    Header 466
+    Byte  255
+    Byte  0
+    Byte  0
+    Byte  0
+}
+
+
+248130510:
+GStoC Packet 
+{
+    Header 469
+}
+
+
+248130510:
+GStoC Packet 
+{
+    Header 3
+}
+
+
+248130510:
+CtoGS Packet 
+{
+    Header 2
+    Dword  1000
+}
+
+
+248130572:
+GStoC Packet 
+{
+    Header 55
+    Word  2
+    Qword  1120
+}
+
+
+248130572:
+GStoC Packet 
+{
+    Header 589
+    Dword  1453037703
+    float  1
+}
+
+
+248130572:
+GStoC Packet 
+{
+    Header 439
+    Dword  417
+    Dword  564
+    Dword  0
+    Dword  0
+    Dword  112
+    Dword  381420276
+}
+
+
+248130572:
+GStoC Packet 
+{
+    Header 435
+    Dword  418
+    String  Hello, Where do you buy GW2 gold from?
+
+WWW.TPLCEO.COM  100 G= 24.66 USD (19.98 EUR)
+
+We guarantee to Send Gold to you via In-Game Mailbox in 10 Minutes
+
+WWW.TPLCEO.COM  is the major supplier of all in game GW2 Gold,
+
+WWW.TPLCEO.COM Sell Game Gold Since 2006
+}
+
+
+248130572:
+GStoC Packet 
+{
+    Header 437
+    Dword  418
+    Dword  0
+    Dword  272
+    Dword  385885792
+    String  Iqwteyew
+    String  hi
+}
+
+
+248130572:
+GStoC Packet 
+{
+    Header 435
+    Dword  419
+    String  www.Thepowerlevel.com
+
+Selling GW2 Gold
+
+100 G =26.78 USD   ( 21.70 EUR )
+
+Send Gold to you via In-Game Mailbox in 5 Minutes
+
+www.Thepowerlevel.com
+}
+
+
+248130572:
+GStoC Packet 
+{
+    Header 437
+    Dword  419
+    Dword  0
+    Dword  272
+    Dword  386163079
+    String  Fdsafdsafw
+    String  hi
+}
+
+
+248130572:
+GStoC Packet 
+{
+    Header 435
+    Dword  420
+    String  WWW.Vgolds.COM   100G = 37.68 USD ( 28.86 EUR)
+
+Other website        100 G > 37.68  USD
+
+Buy each 100 G  at Vgolds.com    Save more than 3 USD
+
+Send Gold to you via In-Game Mailbox in 5 Minutes
+
+WWW.Vgolds.COM   Cheap always
+}
+
+
+248130572:
+GStoC Packet 
+{
+    Header 437
+    Dword  420
+    Dword  0
+    Dword  16
+    Dword  387712156
+    String  Gwfgwef
+    String  hiya
+}
+
+
+248130572:
+GStoC Packet 
+{
+    Header 464
+    Byte  0
+}
+
+
+248130572:
+GStoC Packet 
+{
+    Header 470
+}
+
+
+248130572:
+CtoGS Packet 
+{
+    Header 145
+}
+
+
+248130603:
+GStoC Packet 
+{
+    Header 4
+    Dword  1965
+}
+
+
+248138637:
+GStoC Packet 
+{
+    Header 3
+}
+
+
+248138637:
+CtoGS Packet 
+{
+    Header 2
+    Dword  15
+}
+
+
+248138715:
+GStoC Packet 
+{
+    Header 4
+    Dword  78
+}
+
+
+248148637:
+GStoC Packet 
+{
+    Header 3
+}
+
+
+248148637:
+CtoGS Packet 
+{
+    Header 2
+    Dword  15
+}
+
+
+248148715:
+GStoC Packet 
+{
+    Header 4
+    Dword  78
+}
+
+
+248158637:
+GStoC Packet 
+{
+    Header 3
+}
+
+
+248158637:
+CtoGS Packet 
+{
+    Header 2
+    Dword  15
+}
+
+
+248158699:
+GStoC Packet 
+{
+    Header 4
+    Dword  62
+}
+
+
+248161476:
+CtoGS Packet // Creation fail 
+{
+    Header 147
+    String  Test Champion
+    ArrayField  
+    {
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  1
+        }
+        struct  
+        {
+            Byte  127
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  126
+        }
+        struct  
+        {
+            Byte  126
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  127
+        }
+        struct  
+        {
+            Byte  126
+        }
+        struct  
+        {
+            Byte  17
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  13
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  17
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  127
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  127
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  126
+        }
+        struct  
+        {
+            Byte  2
+        }
+        struct  
+        {
+            Byte  7
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  12
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  2
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  0
+        }
+    }
+    Byte  6
+    Byte  1
+    Dword  0
+    ArrayField  
+    {
+        struct  
+        {
+            Byte  54
+        }
+        struct  
+        {
+            Byte  106
+        }
+        struct  
+        {
+            Byte  110
+        }
+        struct  
+        {
+            Byte  155
+        }
+        struct  
+        {
+            Byte  160
+        }
+    }
+    ArrayField  
+    {
+        struct  
+        {
+            Dword  376
+        }
+        struct  
+        {
+            Dword  109
+        }
+        struct  
+        {
+            Dword  376
+        }
+        struct  
+        {
+            Dword  0
+        }
+        struct  
+        {
+            Dword  376
+        }
+        struct  
+        {
+            Dword  111
+        }
+        struct  
+        {
+            Dword  109
+        }
+        struct  
+        {
+            Dword  0
+        }
+        struct  
+        {
+            Dword  0
+        }
+        struct  
+        {
+            Dword  0
+        }
+        struct  
+        {
+            Dword  0
+        }
+        struct  
+        {
+            Dword  0
+        }
+        struct  
+        {
+            Dword  0
+        }
+        struct  
+        {
+            Dword  0
+        }
+        struct  
+        {
+            Dword  0
+        }
+        struct  
+        {
+            Dword  0
+        }
+        struct  
+        {
+            Dword  376
+        }
+        struct  
+        {
+            Dword  109
+        }
+        struct  
+        {
+            Dword  376
+        }
+        struct  
+        {
+            Dword  0
+        }
+        struct  
+        {
+            Dword  0
+        }
+        struct  
+        {
+            Dword  0
+        }
+        struct  
+        {
+            Dword  0
+        }
+        struct  
+        {
+            Dword  0
+        }
+    }
+}
+
+
+248161585:
+GStoC Packet 
+{
+    Header 471
+    Dword  29
+    Dword  6
+    Dword  6
+    Dword  414
+}
+
+
+248168652:
+GStoC Packet 
+{
+    Header 3
+}
+
+
+248168652:
+CtoGS Packet 
+{
+    Header 2
+    Dword  15
+}
+
+
+248168714:
+GStoC Packet 
+{
+    Header 4
+    Dword  62
+}
+
+
+248169432:
+CtoGS Packet // Success
+{
+    Header 147
+    String  Crocodileoo
+    ArrayField  
+    {
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  1
+        }
+        struct  
+        {
+            Byte  127
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  126
+        }
+        struct  
+        {
+            Byte  126
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  127
+        }
+        struct  
+        {
+            Byte  126
+        }
+        struct  
+        {
+            Byte  17
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  13
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  17
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  127
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  127
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  126
+        }
+        struct  
+        {
+            Byte  2
+        }
+        struct  
+        {
+            Byte  7
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  12
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  2
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  0
+        }
+    }
+    Byte  6
+    Byte  1
+    Dword  0
+    ArrayField  
+    {
+        struct  
+        {
+            Byte  54
+        }
+        struct  
+        {
+            Byte  106
+        }
+        struct  
+        {
+            Byte  110
+        }
+        struct  
+        {
+            Byte  155
+        }
+        struct  
+        {
+            Byte  160
+        }
+    }
+    ArrayField  
+    {
+        struct  
+        {
+            Dword  376
+        }
+        struct  
+        {
+            Dword  109
+        }
+        struct  
+        {
+            Dword  376
+        }
+        struct  
+        {
+            Dword  0
+        }
+        struct  
+        {
+            Dword  376
+        }
+        struct  
+        {
+            Dword  111
+        }
+        struct  
+        {
+            Dword  109
+        }
+        struct  
+        {
+            Dword  0
+        }
+        struct  
+        {
+            Dword  0
+        }
+        struct  
+        {
+            Dword  0
+        }
+        struct  
+        {
+            Dword  0
+        }
+        struct  
+        {
+            Dword  0
+        }
+        struct  
+        {
+            Dword  0
+        }
+        struct  
+        {
+            Dword  0
+        }
+        struct  
+        {
+            Dword  0
+        }
+        struct  
+        {
+            Dword  0
+        }
+        struct  
+        {
+            Dword  376
+        }
+        struct  
+        {
+            Dword  109
+        }
+        struct  
+        {
+            Dword  376
+        }
+        struct  
+        {
+            Dword  0
+        }
+        struct  
+        {
+            Dword  0
+        }
+        struct  
+        {
+            Dword  0
+        }
+        struct  
+        {
+            Dword  0
+        }
+        struct  
+        {
+            Dword  0
+        }
+    }
+}
+
+
+248169775:
+GStoC Packet 
+{
+    Header 588
+    ArrayField  
+    {
+        struct  
+        {
+            Dword  16848
+            Qword  32862151959587
+        }
+        struct  
+        {
+            Dword  16849
+            Qword  28154937546946
+        }
+        struct  
+        {
+            Dword  16850
+            Qword  25028072652133
+        }
+        struct  
+        {
+            Dword  16851
+            Qword  13756232939345
+        }
+        struct  
+        {
+            Dword  16852
+            Qword  34150438380884
+        }
+        struct  
+        {
+            Dword  16853
+            Qword  25876379997507
+        }
+        struct  
+        {
+            Dword  16854
+            Qword  6046575283832
+        }
+        struct  
+        {
+            Dword  16857
+            Qword  9452355153016
+        }
+        struct  
+        {
+            Dword  16858
+            Qword  33391762875419
+        }
+        struct  
+        {
+            Dword  16859
+            Qword  4573144596699
+        }
+        struct  
+        {
+            Dword  16860
+            Qword  26587831465792
+        }
+        struct  
+        {
+            Dword  16861
+            Qword  11525120021503
+        }
+        struct  
+        {
+            Dword  16862
+            Qword  3807809930108
+        }
+        struct  
+        {
+            Dword  16863
+            Qword  14003081982671
+        }
+        struct  
+        {
+            Dword  16864
+            Qword  21105335897175
+        }
+        struct  
+        {
+            Dword  16865
+            Qword  4997113818021
+        }
+        struct  
+        {
+            Dword  16866
+            Qword  5498557569083
+        }
+        struct  
+        {
+            Dword  16868
+            Qword  15136129138562
+        }
+        struct  
+        {
+            Dword  16869
+            Qword  4573144596699
+        }
+        struct  
+        {
+            Dword  16870
+            Qword  26587831465792
+        }
+        struct  
+        {
+            Dword  16872
+            Qword  19930725992289
+        }
+        struct  
+        {
+            Dword  16873
+            Qword  14003081982671
+        }
+        struct  
+        {
+            Dword  16874
+            Qword  251805433140
+        }
+        struct  
+        {
+            Dword  16875
+            Qword  17640796140610
+        }
+        struct  
+        {
+            Dword  16877
+            Qword  23434049037929
+        }
+        struct  
+        {
+            Dword  16878
+            Qword  4573144596699
+        }
+        struct  
+        {
+            Dword  16879
+            Qword  26587831465792
+        }
+        struct  
+        {
+            Dword  16880
+            Qword  11561610780666
+        }
+        struct  
+        {
+            Dword  16881
+            Qword  11499502994243
+        }
+        struct  
+        {
+            Dword  16882
+            Qword  14003081982671
+        }
+        struct  
+        {
+            Dword  16883
+            Qword  16858184137833
+        }
+        struct  
+        {
+            Dword  16884
+            Qword  24713998159305
+        }
+        struct  
+        {
+            Dword  16885
+            Qword  21001001807326
+        }
+    }
+}
+
+
+248169775:
+GStoC Packet 
+{
+    Header 309
+    Dword  9
+    Dword  1
+}
+
+
+248169775:
+GStoC Packet 
+{
+    Header 468
+    UID  A2192749-67B9-E211-BCD1-441EA102B1B6
+    UID  A983638D-7652-E211-8756-78E7D1936222
+    String  Crocodileoo
+    Word  138
+}
+
+
+248178667:
+GStoC Packet 
+{
+    Header 3
+}
+
+
+248178667:
+CtoGS Packet 
+{
+    Header 2
+    Dword  16
+}
+
+
+248178730:
+GStoC Packet 
+{
+    Header 4
+    Dword  78
+}
+
+
+248188683:
+GStoC Packet 
+{
+    Header 3
+}
+
+
+248188683:
+CtoGS Packet 
+{
+    Header 2
+    Dword  15
+}
+
+
+248188761:
+GStoC Packet 
+{
+    Header 4
+    Dword  78
+}
+
+
+248194361:
+GStoC Packet 
+{
+    Header 627
+    Byte  0
+}
+
+
+248194361:
+GStoC Packet 
+{
+    Header 629
+    Byte  1
+    Word  54
+}
+
+
+248194361:
+GStoC Packet 
+{
+    Header 631
+    Byte  1
+    Byte  3
+    Byte  3
+    Byte  2
+    Byte  3
+}
+
+
+248194361:
+GStoC Packet 
+{
+    Header 631
+    Byte  2
+    Byte  1
+    Byte  1
+    Byte  1
+    Byte  1
+}
+
+
+248194361:
+GStoC Packet 
+{
+    Header 631
+    Byte  3
+    Byte  2
+    Byte  2
+    Byte  3
+    Byte  2
+}
+
+
+248194361:
+GStoC Packet 
+{
+    Header 633
+    Byte  1
+    Dword  168220
+}
+
+
+248194361:
+GStoC Packet 
+{
+    Header 633
+    Byte  2
+    Dword  253370
+}
+
+
+248194361:
+GStoC Packet 
+{
+    Header 633
+    Byte  3
+    Dword  178715
+}
+
+
+248194361:
+GStoC Packet 
+{
+    Header 631
+    Byte  1
+    Byte  3
+    Byte  3
+    Byte  2
+    Byte  3
+}
+
+
+248194361:
+GStoC Packet 
+{
+    Header 631
+    Byte  2
+    Byte  1
+    Byte  1
+    Byte  1
+    Byte  1
+}
+
+
+248194361:
+GStoC Packet 
+{
+    Header 631
+    Byte  3
+    Byte  2
+    Byte  2
+    Byte  3
+    Byte  2
+}
+
+
+248194423:
+GStoC Packet 
+{
+    Header 627
+    Byte  0
+}
+
+
+248194423:
+GStoC Packet 
+{
+    Header 633
+    Byte  1
+    Dword  168229
+}
+
+
+248194423:
+GStoC Packet 
+{
+    Header 633
+    Byte  2
+    Dword  253375
+}
+
+
+248194423:
+GStoC Packet 
+{
+    Header 633
+    Byte  3
+    Dword  178715
+}
+
+
+248194423:
+GStoC Packet 
+{
+    Header 631
+    Byte  1
+    Byte  3
+    Byte  3
+    Byte  2
+    Byte  3
+}
+
+
+248194423:
+GStoC Packet 
+{
+    Header 631
+    Byte  2
+    Byte  1
+    Byte  1
+    Byte  1
+    Byte  1
+}
+
+
+248194423:
+GStoC Packet 
+{
+    Header 631
+    Byte  3
+    Byte  2
+    Byte  2
+    Byte  3
+    Byte  2
+}
+
+
+248194501:
+GStoC Packet 
+{
+    Header 627
+    Byte  0
+}
+
+
+248194517:
+GStoC Packet 
+{
+    Header 633
+    Byte  1
+    Dword  168230
+}
+
+
+248194548:
+GStoC Packet 
+{
+    Header 633
+    Byte  2
+    Dword  253375
+}
+
+
+248194579:
+GStoC Packet 
+{
+    Header 633
+    Byte  3
+    Dword  178717
+}
+
+
+248194595:
+GStoC Packet 
+{
+    Header 631
+    Byte  1
+    Byte  3
+    Byte  3
+    Byte  2
+    Byte  3
+}
+
+
+248194626:
+GStoC Packet 
+{
+    Header 631
+    Byte  2
+    Byte  1
+    Byte  1
+    Byte  1
+    Byte  1
+}
+
+
+248194626:
+GStoC Packet 
+{
+    Header 631
+    Byte  3
+    Byte  2
+    Byte  2
+    Byte  3
+    Byte  2
+}
+
+
+248194891:
+GStoC Packet 
+{
+    Header 627
+    Byte  0
+}
+
+
+248194891:
+GStoC Packet 
+{
+    Header 633
+    Byte  1
+    Dword  168230
+}
+
+
+248194891:
+GStoC Packet 
+{
+    Header 633
+    Byte  2
+    Dword  253376
+}
+
+
+248194891:
+GStoC Packet 
+{
+    Header 633
+    Byte  3
+    Dword  178718
+}
+
+
+248194891:
+GStoC Packet 
+{
+    Header 631
+    Byte  1
+    Byte  3
+    Byte  3
+    Byte  2
+    Byte  3
+}
+
+
+248194891:
+GStoC Packet 
+{
+    Header 631
+    Byte  2
+    Byte  1
+    Byte  1
+    Byte  1
+    Byte  1
+}
+
+
+248194891:
+GStoC Packet 
+{
+    Header 631
+    Byte  3
+    Byte  2
+    Byte  2
+    Byte  3
+    Byte  2
+}
+
+
+248198698:
+GStoC Packet 
+{
+    Header 3
+}
+
+
+248198698:
+CtoGS Packet 
+{
+    Header 2
+    Dword  15
+}
+
+
+248198760:
+GStoC Packet 
+{
+    Header 4
+    Dword  62
+}
+
+
+248205359:
+GStoC Packet 
+{
+    Header 627
+    Byte  0
+}
+
+
+248205359:
+GStoC Packet 
+{
+    Header 629
+    Byte  2
+    Word  34
+}
+
+
+248205359:
+GStoC Packet 
+{
+    Header 631
+    Byte  1
+    Byte  3
+    Byte  3
+    Byte  3
+    Byte  2
+}
+
+
+248205359:
+GStoC Packet 
+{
+    Header 631
+    Byte  2
+    Byte  1
+    Byte  1
+    Byte  1
+    Byte  1
+}
+
+
+248205359:
+GStoC Packet 
+{
+    Header 631
+    Byte  3
+    Byte  2
+    Byte  2
+    Byte  2
+    Byte  3
+}
+
+
+248205359:
+GStoC Packet 
+{
+    Header 633
+    Byte  1
+    Dword  168230
+}
+
+
+248205359:
+GStoC Packet 
+{
+    Header 633
+    Byte  2
+    Dword  253376
+}
+
+
+248205359:
+GStoC Packet 
+{
+    Header 633
+    Byte  3
+    Dword  178718
+}
+
+
+248205359:
+GStoC Packet 
+{
+    Header 631
+    Byte  1
+    Byte  3
+    Byte  3
+    Byte  3
+    Byte  2
+}
+
+
+248205359:
+GStoC Packet 
+{
+    Header 631
+    Byte  2
+    Byte  1
+    Byte  1
+    Byte  1
+    Byte  1
+}
+
+
+248205359:
+GStoC Packet 
+{
+    Header 631
+    Byte  3
+    Byte  2
+    Byte  2
+    Byte  2
+    Byte  3
+}
+
+
+248205655:
+GStoC Packet 
+{
+    Header 627
+    Byte  0
+}
+
+
+248205655:
+GStoC Packet 
+{
+    Header 633
+    Byte  1
+    Dword  168230
+}
+
+
+248205655:
+GStoC Packet 
+{
+    Header 633
+    Byte  2
+    Dword  253376
+}
+
+
+248205655:
+GStoC Packet 
+{
+    Header 633
+    Byte  3
+    Dword  178721
+}
+
+
+248205655:
+GStoC Packet 
+{
+    Header 631
+    Byte  1
+    Byte  3
+    Byte  3
+    Byte  3
+    Byte  2
+}
+
+
+248205655:
+GStoC Packet 
+{
+    Header 631
+    Byte  2
+    Byte  1
+    Byte  1
+    Byte  1
+    Byte  1
+}
+
+
+248205655:
+GStoC Packet 
+{
+    Header 631
+    Byte  3
+    Byte  2
+    Byte  2
+    Byte  2
+    Byte  3
+}
+
+
+248205796:
+GStoC Packet 
+{
+    Header 627
+    Byte  0
+}
+
+
+248205796:
+GStoC Packet 
+{
+    Header 633
+    Byte  1
+    Dword  168230
+}
+
+
+248205796:
+GStoC Packet 
+{
+    Header 633
+    Byte  2
+    Dword  253376
+}
+
+
+248205796:
+GStoC Packet 
+{
+    Header 633
+    Byte  3
+    Dword  178721
+}
+
+
+248205796:
+GStoC Packet 
+{
+    Header 631
+    Byte  1
+    Byte  3
+    Byte  3
+    Byte  3
+    Byte  2
+}
+
+
+248205796:
+GStoC Packet 
+{
+    Header 631
+    Byte  2
+    Byte  1
+    Byte  1
+    Byte  1
+    Byte  1
+}
+
+
+248205796:
+GStoC Packet 
+{
+    Header 631
+    Byte  3
+    Byte  2
+    Byte  2
+    Byte  2
+    Byte  3
+}
+
+
+248206435:
+GStoC Packet 
+{
+    Header 627
+    Byte  0
+}
+
+
+248206435:
+GStoC Packet 
+{
+    Header 633
+    Byte  1
+    Dword  168230
+}
+
+
+248206435:
+GStoC Packet 
+{
+    Header 633
+    Byte  2
+    Dword  253376
+}
+
+
+248206435:
+GStoC Packet 
+{
+    Header 633
+    Byte  3
+    Dword  178721
+}
+
+
+248206435:
+GStoC Packet 
+{
+    Header 631
+    Byte  1
+    Byte  3
+    Byte  3
+    Byte  3
+    Byte  2
+}
+
+
+248206435:
+GStoC Packet 
+{
+    Header 631
+    Byte  2
+    Byte  1
+    Byte  1
+    Byte  1
+    Byte  1
+}
+
+
+248206435:
+GStoC Packet 
+{
+    Header 631
+    Byte  3
+    Byte  2
+    Byte  2
+    Byte  2
+    Byte  3
+}
+
+
+248206935:
+GStoC Packet 
+{
+    Header 627
+    Byte  0
+}
+
+
+248206935:
+GStoC Packet 
+{
+    Header 629
+    Byte  2
+    Word  48
+}
+
+
+248206935:
+GStoC Packet 
+{
+    Header 631
+    Byte  1
+    Byte  3
+    Byte  3
+    Byte  2
+    Byte  3
+}
+
+
+248206935:
+GStoC Packet 
+{
+    Header 631
+    Byte  2
+    Byte  1
+    Byte  1
+    Byte  1
+    Byte  1
+}
+
+
+248206935:
+GStoC Packet 
+{
+    Header 631
+    Byte  3
+    Byte  2
+    Byte  2
+    Byte  3
+    Byte  2
+}
+
+
+248206935:
+GStoC Packet 
+{
+    Header 633
+    Byte  1
+    Dword  168230
+}
+
+
+248206935:
+GStoC Packet 
+{
+    Header 633
+    Byte  2
+    Dword  253376
+}
+
+
+248206935:
+GStoC Packet 
+{
+    Header 633
+    Byte  3
+    Dword  178721
+}
+
+
+248206935:
+GStoC Packet 
+{
+    Header 631
+    Byte  1
+    Byte  3
+    Byte  3
+    Byte  2
+    Byte  3
+}
+
+
+248206935:
+GStoC Packet 
+{
+    Header 631
+    Byte  2
+    Byte  1
+    Byte  1
+    Byte  1
+    Byte  1
+}
+
+
+248206935:
+GStoC Packet 
+{
+    Header 631
+    Byte  3
+    Byte  2
+    Byte  2
+    Byte  3
+    Byte  2
+}
+
+
+248207215:
+CtoGS Packet 
+{
+    Header 85
+    Byte  1
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 627
+    Byte  0
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 633
+    Byte  1
+    Dword  168230
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 633
+    Byte  2
+    Dword  253376
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 633
+    Byte  3
+    Dword  178721
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 631
+    Byte  1
+    Byte  3
+    Byte  3
+    Byte  2
+    Byte  3
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 631
+    Byte  2
+    Byte  1
+    Byte  1
+    Byte  1
+    Byte  1
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 631
+    Byte  3
+    Byte  2
+    Byte  2
+    Byte  3
+    Byte  2
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 627
+    Byte  0
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 633
+    Byte  1
+    Dword  168230
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 633
+    Byte  2
+    Dword  253376
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 633
+    Byte  3
+    Dword  178721
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 631
+    Byte  1
+    Byte  3
+    Byte  3
+    Byte  2
+    Byte  3
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 631
+    Byte  2
+    Byte  1
+    Byte  1
+    Byte  1
+    Byte  1
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 631
+    Byte  3
+    Byte  2
+    Byte  2
+    Byte  3
+    Byte  2
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 627
+    Byte  0
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 629
+    Byte  1
+    Word  43
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 631
+    Byte  1
+    Byte  3
+    Byte  3
+    Byte  2
+    Byte  2
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 631
+    Byte  2
+    Byte  1
+    Byte  1
+    Byte  1
+    Byte  1
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 631
+    Byte  3
+    Byte  2
+    Byte  2
+    Byte  3
+    Byte  3
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 633
+    Byte  1
+    Dword  168230
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 633
+    Byte  2
+    Dword  253376
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 633
+    Byte  3
+    Dword  178721
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 631
+    Byte  1
+    Byte  3
+    Byte  3
+    Byte  2
+    Byte  2
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 631
+    Byte  2
+    Byte  1
+    Byte  1
+    Byte  1
+    Byte  1
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 631
+    Byte  3
+    Byte  2
+    Byte  2
+    Byte  3
+    Byte  3
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 627
+    Byte  0
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 633
+    Byte  1
+    Dword  168230
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 633
+    Byte  2
+    Dword  253376
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 633
+    Byte  3
+    Dword  178721
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 631
+    Byte  1
+    Byte  3
+    Byte  3
+    Byte  2
+    Byte  2
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 631
+    Byte  2
+    Byte  1
+    Byte  1
+    Byte  1
+    Byte  1
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 631
+    Byte  3
+    Byte  2
+    Byte  2
+    Byte  3
+    Byte  3
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 627
+    Byte  0
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 633
+    Byte  1
+    Dword  168230
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 633
+    Byte  2
+    Dword  253376
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 633
+    Byte  3
+    Dword  178721
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 631
+    Byte  1
+    Byte  3
+    Byte  3
+    Byte  2
+    Byte  2
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 631
+    Byte  2
+    Byte  1
+    Byte  1
+    Byte  1
+    Byte  1
+}
+
+
+248207621:
+GStoC Packet 
+{
+    Header 631
+    Byte  3
+    Byte  2
+    Byte  2
+    Byte  3
+    Byte  3
+}
+
+
+248207902:
+CtoGS Packet 
+{
+    Header 1
+}
+
+
+248208370:
+GStoC Packet 
+{
+    Header 466
+    Byte  255
+    Byte  0
+    Byte  0
+    Byte  0
+}
+
+
+248208370:
+GStoC Packet 
+{
+    Header 467
+    String  Crocodileoo
+}
+
+
+248208370:
+GStoC Packet 
+{
+    Header 480
+    Dword  2
+    Dword  138
+    Dword  2007
+    Dword  1
+    Byte  0
+    Byte  0
+}
+
+
+248208370:
+CtoGS Packet 
+{
+    Header 155
+    String  user@test.com
+    Byte  0
+    Byte  0
+}
+
+
+248208370:
+CtoGS Packet 
+{
+    Header 154
+    Byte  0
+    Byte  0
+}
+
+
+248208463:
+GStoC Packet 
+{
+    Header 55
+    Word  2
+    Qword  1120
+}
+
+
+248208463:
+GStoC Packet 
+{
+    Header 589
+    Dword  6900000
+    float  1
+}
+
+
+248208463:
+GStoC Packet 
+{
+    Header 194
+    large buffer  
+}
+
+
+248208463:
+GStoC Packet 
+{
+    Header 439
+    Dword  27
+    Dword  564
+    Dword  0
+    Dword  0
+    Dword  112
+    Dword  381420276
+}
+
+
+248208479:
+GStoC Packet 
+{
+    Header 435
+    Dword  28
+    String  Hello, Where do you buy GW2 gold from?
+
+WWW.TPLCEO.COM  100 G= 24.66 USD (19.98 EUR)
+
+We guarantee to Send Gold to you via In-Game Mailbox in 10 Minutes
+
+WWW.TPLCEO.COM  is the major supplier of all in game GW2 Gold,
+
+WWW.TPLCEO.COM Sell Game Gold Since 2006
+}
+
+
+248208479:
+GStoC Packet 
+{
+    Header 437
+    Dword  28
+    Dword  0
+    Dword  272
+    Dword  385885792
+    String  Iqwteyew
+    String  hi
+}
+
+
+248208479:
+GStoC Packet 
+{
+    Header 435
+    Dword  29
+    String  www.Thepowerlevel.com
+
+Selling GW2 Gold
+
+100 G =26.78 USD   ( 21.70 EUR )
+
+Send Gold to you via In-Game Mailbox in 5 Minutes
+
+www.Thepowerlevel.com
+}
+
+
+248208479:
+GStoC Packet 
+{
+    Header 437
+    Dword  29
+    Dword  0
+    Dword  272
+    Dword  386163079
+    String  Fdsafdsafw
+    String  hi
+}
+
+
+248208479:
+GStoC Packet 
+{
+    Header 435
+    Dword  30
+    String  WWW.Vgolds.COM   100G = 37.68 USD ( 28.86 EUR)
+
+Other website        100 G > 37.68  USD
+
+Buy each 100 G  at Vgolds.com    Save more than 3 USD
+
+Send Gold to you via In-Game Mailbox in 5 Minutes
+
+WWW.Vgolds.COM   Cheap always
+}
+
+
+248208479:
+GStoC Packet 
+{
+    Header 437
+    Dword  30
+    Dword  0
+    Dword  16
+    Dword  387712156
+    String  Gwfgwef
+    String  hiya
+}
+
+
+248208479:
+GStoC Packet 
+{
+    Header 464
+    Byte  0
+}
+
+
+248208479:
+GStoC Packet 
+{
+    Header 484
+    Vec3  
+    {
+        float x -15171.2
+        float y 23345.1
+        float z -2860.48
+    }
+}
+
+
+248208479:
+GStoC Packet 
+{
+    Header 475
+    Word  0
+}
+
+
+248208479:
+GStoC Packet 
+{
+    Header 479
+}
+
+
+248208479:
+CtoGS Packet 
+{
+    Header 143
+}
+
+
+248208541:
+GStoC Packet 
+{
+    Header 477
+    Vec3  
+    {
+        float x -15171.2
+        float y 23345.1
+        float z -2860.48
+    }
+    Vec2  
+    {
+        float x -26057
+        float y -587
+    }
+    Vec2  
+    {
+        float x 3735
+        float y 29944
+    }
+    Word  138
+    Byte  176
+}
+
+
+248209025:
+GStoC Packet 
+{
+    Header 3
+}
+
+
+248209134:
+CtoGS Packet 
+{
+    Header 2
+    Dword  26
+}
+
+
+248209243:
+GStoC Packet 
+{
+    Header 4
+    Dword  234
+}
+
+
+248211646:
+CtoGS Packet 
+{
+    Header 151
+}
+
+
+248211724:
+GStoC Packet 
+{
+    Header 639
+    Dword  4294966876
+}
+
+
+248211724:
+GStoC Packet 
+{
+    Header 472
+}
+
+
+248211724:
+GStoC Packet 
+{
+    Header 653
+    Dword  30
+    Dword  60
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 478
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 47
+    Word  231
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 179
+    Dword  2
+    String  Crocodileoo
+    UID  A983638D-7652-E211-8756-78E7D1936222
+    Dword  0
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 184
+    Dword  2
+    Dword  0
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 12
+    Word  231
+    Dword  31599
+    Byte  128
+    Dword  0
+    small buffer  
+    Byte  0
+    Dword  805306370
+    Byte  16
+    Byte  49
+    WorldPos  
+    {
+        float x -15171.2
+        float y 23345.1
+        float z -2860.48
+        float w 0
+    }
+    Word  0
+    Word  45153
+    ArrayField  
+    {
+        struct  
+        {
+            float  294
+        }
+        struct  
+        {
+            float  2.0944
+        }
+        struct  
+        {
+            float  70
+        }
+    }
+    float  24
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 182
+    Dword  2
+    Dword  231
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 289
+    Dword  231
+    Dword  0
+    Dword  14
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 61
+    Dword  231
+    Dword  0
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 313
+    Dword  231
+    Dword  231
+    Dword  5585
+    Dword  43
+    Dword  4294967295
+    Byte  1
+    Byte  1
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 72
+    Dword  231
+    ArrayField  
+    {
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  1
+        }
+        struct  
+        {
+            Byte  127
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  126
+        }
+        struct  
+        {
+            Byte  126
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  127
+        }
+        struct  
+        {
+            Byte  126
+        }
+        struct  
+        {
+            Byte  17
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  13
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  17
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  127
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  127
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  126
+        }
+        struct  
+        {
+            Byte  2
+        }
+        struct  
+        {
+            Byte  7
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  12
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  0
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  128
+        }
+        struct  
+        {
+            Byte  2
+        }
+    }
+    Byte  1
+    Byte  1
+    Byte  6
+    Dword  0
+    Dword  0
+    ArrayField  
+    {
+        struct  
+        {
+            Word  0
+            Word  0
+            Word  0
+        }
+        struct  
+        {
+            Word  24
+            Word  24
+            Word  0
+        }
+        struct  
+        {
+            Word  24
+            Word  24
+            Word  0
+        }
+        struct  
+        {
+            Word  24
+            Word  24
+            Word  0
+        }
+        struct  
+        {
+            Word  24
+            Word  24
+            Word  0
+        }
+        struct  
+        {
+            Word  0
+            Word  0
+            Word  0
+        }
+        struct  
+        {
+            Word  0
+            Word  0
+            Word  0
+        }
+        struct  
+        {
+            Word  0
+            Word  0
+            Word  0
+        }
+        struct  
+        {
+            Word  0
+            Word  0
+            Word  0
+        }
+    }
+    float  0.25
+    float  0.5
+    float  0.25
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 70
+    Dword  231
+    Byte  0
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 71
+    Dword  231
+    Byte  0
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 91
+    Dword  231
+    Byte  0
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 96
+    Dword  231
+    Dword  100
+    Dword  100
+    Dword  100
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 104
+    Dword  231
+    Byte  0
+    float  245
+    float  245
+    float  24.5
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 118
+    Dword  231
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 132
+    Dword  231
+    Dword  0
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 131
+    Dword  231
+    Byte  5
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 126
+    Dword  231
+    Byte  30
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 135
+    Dword  231
+    Dword  160
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 419
+    Dword  357
+    Dword  32139
+    Byte  56
+    Dword  0
+    Dword  0
+    Byte  0
+    Dword  0
+    ArrayField  
+    {
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 124
+    Dword  231
+    Dword  357
+    Byte  4
+    Byte  1
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 588
+    ArrayField  
+    {
+        struct  
+        {
+            Dword  22242
+            Qword  11895494430520
+        }
+        struct  
+        {
+            Dword  22241
+            Qword  2762109214376
+        }
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 410
+    Dword  237
+    Dword  8932
+    Byte  41
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 124
+    Dword  231
+    Dword  237
+    Byte  5
+    Byte  0
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 588
+    ArrayField  
+    {
+        struct  
+        {
+            Dword  190927
+            Qword  26223605412978
+        }
+        struct  
+        {
+            Dword  190926
+            Qword  31991130981945
+        }
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 588
+    ArrayField  
+    {
+        struct  
+        {
+            Dword  332750
+            Qword  28861577195068
+        }
+        struct  
+        {
+            Dword  332749
+            Qword  31062784287600
+        }
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 588
+    ArrayField  
+    {
+        struct  
+        {
+            Dword  332752
+            Qword  266133016042
+        }
+        struct  
+        {
+            Dword  332751
+            Qword  11796628893327
+        }
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 408
+    Dword  340
+    Dword  6477
+    Byte  41
+    Dword  0
+    ArrayField  
+    {
+        struct  
+        {
+            Word  0
+        }
+        struct  
+        {
+            Word  0
+        }
+        struct  
+        {
+            Word  0
+        }
+        struct  
+        {
+            Word  0
+        }
+    }
+    Dword  0
+    ArrayField  
+    {
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 124
+    Dword  231
+    Dword  340
+    Byte  2
+    Byte  0
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 408
+    Dword  227
+    Dword  6465
+    Byte  57
+    Dword  0
+    ArrayField  
+    {
+        struct  
+        {
+            Word  193
+        }
+        struct  
+        {
+            Word  107
+        }
+        struct  
+        {
+            Word  193
+        }
+        struct  
+        {
+            Word  0
+        }
+    }
+    Dword  0
+    ArrayField  
+    {
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 124
+    Dword  231
+    Dword  227
+    Byte  2
+    Byte  2
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 408
+    Dword  61
+    Dword  6464
+    Byte  57
+    Dword  0
+    ArrayField  
+    {
+        struct  
+        {
+            Word  193
+        }
+        struct  
+        {
+            Word  109
+        }
+        struct  
+        {
+            Word  107
+        }
+        struct  
+        {
+            Word  0
+        }
+    }
+    Dword  0
+    ArrayField  
+    {
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 124
+    Dword  231
+    Dword  61
+    Byte  2
+    Byte  3
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 588
+    ArrayField  
+    {
+        struct  
+        {
+            Dword  21004
+            Qword  31392343965087
+        }
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 408
+    Dword  59
+    Dword  6471
+    Byte  41
+    Dword  0
+    ArrayField  
+    {
+        struct  
+        {
+            Word  0
+        }
+        struct  
+        {
+            Word  0
+        }
+        struct  
+        {
+            Word  0
+        }
+        struct  
+        {
+            Word  0
+        }
+    }
+    Dword  0
+    ArrayField  
+    {
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 124
+    Dword  231
+    Dword  59
+    Byte  2
+    Byte  5
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 408
+    Dword  60
+    Dword  6467
+    Byte  57
+    Dword  0
+    ArrayField  
+    {
+        struct  
+        {
+            Word  193
+        }
+        struct  
+        {
+            Word  107
+        }
+        struct  
+        {
+            Word  193
+        }
+        struct  
+        {
+            Word  0
+        }
+    }
+    Dword  0
+    ArrayField  
+    {
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 124
+    Dword  231
+    Dword  60
+    Byte  2
+    Byte  6
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 408
+    Dword  151
+    Dword  62
+    Byte  41
+    Dword  0
+    ArrayField  
+    {
+        struct  
+        {
+            Word  242
+        }
+        struct  
+        {
+            Word  121
+        }
+        struct  
+        {
+            Word  242
+        }
+        struct  
+        {
+            Word  242
+        }
+    }
+    Dword  0
+    ArrayField  
+    {
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 124
+    Dword  231
+    Dword  151
+    Byte  2
+    Byte  14
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 408
+    Dword  160
+    Dword  64
+    Byte  41
+    Dword  0
+    ArrayField  
+    {
+        struct  
+        {
+            Word  242
+        }
+        struct  
+        {
+            Word  121
+        }
+        struct  
+        {
+            Word  121
+        }
+        struct  
+        {
+            Word  242
+        }
+    }
+    Dword  0
+    ArrayField  
+    {
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 124
+    Dword  231
+    Dword  160
+    Byte  2
+    Byte  15
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 408
+    Dword  153
+    Dword  63
+    Byte  41
+    Dword  0
+    ArrayField  
+    {
+        struct  
+        {
+            Word  242
+        }
+        struct  
+        {
+            Word  121
+        }
+        struct  
+        {
+            Word  121
+        }
+        struct  
+        {
+            Word  242
+        }
+    }
+    Dword  0
+    ArrayField  
+    {
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 124
+    Dword  231
+    Dword  153
+    Byte  2
+    Byte  18
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 419
+    Dword  182
+    Dword  33359
+    Byte  16
+    Dword  0
+    Dword  0
+    Byte  0
+    Dword  0
+    ArrayField  
+    {
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 124
+    Dword  231
+    Dword  182
+    Byte  2
+    Byte  24
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 419
+    Dword  164
+    Dword  33352
+    Byte  0
+    Dword  0
+    Dword  0
+    Byte  0
+    Dword  0
+    ArrayField  
+    {
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 124
+    Dword  231
+    Dword  164
+    Byte  2
+    Byte  29
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 408
+    Dword  183
+    Dword  39356
+    Byte  41
+    Dword  0
+    ArrayField  
+    {
+        struct  
+        {
+            Word  0
+        }
+        struct  
+        {
+            Word  0
+        }
+        struct  
+        {
+            Word  0
+        }
+        struct  
+        {
+            Word  0
+        }
+    }
+    Dword  21175
+    ArrayField  
+    {
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 124
+    Dword  231
+    Dword  183
+    Byte  2
+    Byte  40
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 408
+    Dword  212
+    Dword  39351
+    Byte  41
+    Dword  0
+    ArrayField  
+    {
+        struct  
+        {
+            Word  1
+        }
+        struct  
+        {
+            Word  343
+        }
+        struct  
+        {
+            Word  79
+        }
+        struct  
+        {
+            Word  194
+        }
+    }
+    Dword  21175
+    ArrayField  
+    {
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 124
+    Dword  231
+    Dword  212
+    Byte  2
+    Byte  42
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 408
+    Dword  207
+    Dword  39350
+    Byte  41
+    Dword  0
+    ArrayField  
+    {
+        struct  
+        {
+            Word  1
+        }
+        struct  
+        {
+            Word  343
+        }
+        struct  
+        {
+            Word  79
+        }
+        struct  
+        {
+            Word  194
+        }
+    }
+    Dword  21175
+    ArrayField  
+    {
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 124
+    Dword  231
+    Dword  207
+    Byte  2
+    Byte  43
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 408
+    Dword  208
+    Dword  39352
+    Byte  41
+    Dword  0
+    ArrayField  
+    {
+        struct  
+        {
+            Word  1
+        }
+        struct  
+        {
+            Word  343
+        }
+        struct  
+        {
+            Word  79
+        }
+        struct  
+        {
+            Word  194
+        }
+    }
+    Dword  21175
+    ArrayField  
+    {
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 124
+    Dword  231
+    Dword  208
+    Byte  2
+    Byte  44
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 408
+    Dword  202
+    Dword  39353
+    Byte  41
+    Dword  0
+    ArrayField  
+    {
+        struct  
+        {
+            Word  1
+        }
+        struct  
+        {
+            Word  343
+        }
+        struct  
+        {
+            Word  79
+        }
+        struct  
+        {
+            Word  194
+        }
+    }
+    Dword  21175
+    ArrayField  
+    {
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 124
+    Dword  231
+    Dword  202
+    Byte  2
+    Byte  45
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 408
+    Dword  184
+    Dword  39354
+    Byte  41
+    Dword  0
+    ArrayField  
+    {
+        struct  
+        {
+            Word  1
+        }
+        struct  
+        {
+            Word  343
+        }
+        struct  
+        {
+            Word  79
+        }
+        struct  
+        {
+            Word  194
+        }
+    }
+    Dword  21175
+    ArrayField  
+    {
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 124
+    Dword  231
+    Dword  184
+    Byte  2
+    Byte  46
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 408
+    Dword  176
+    Dword  39355
+    Byte  41
+    Dword  0
+    ArrayField  
+    {
+        struct  
+        {
+            Word  1
+        }
+        struct  
+        {
+            Word  343
+        }
+        struct  
+        {
+            Word  79
+        }
+        struct  
+        {
+            Word  194
+        }
+    }
+    Dword  21175
+    ArrayField  
+    {
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 124
+    Dword  231
+    Dword  176
+    Byte  2
+    Byte  47
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 419
+    Dword  186
+    Dword  21242
+    Byte  41
+    Dword  0
+    Dword  21125
+    Byte  0
+    Dword  0
+    ArrayField  
+    {
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 124
+    Dword  231
+    Dword  186
+    Byte  2
+    Byte  48
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 419
+    Dword  199
+    Dword  39749
+    Byte  41
+    Dword  0
+    Dword  21125
+    Byte  0
+    Dword  0
+    ArrayField  
+    {
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 124
+    Dword  231
+    Dword  199
+    Byte  2
+    Byte  50
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 419
+    Dword  188
+    Dword  39748
+    Byte  41
+    Dword  0
+    Dword  21154
+    Byte  0
+    Dword  0
+    ArrayField  
+    {
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 124
+    Dword  231
+    Dword  188
+    Byte  2
+    Byte  51
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 417
+    Dword  228
+    Dword  21083
+    Byte  41
+    Dword  21163
+    ArrayField  
+    {
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 124
+    Dword  231
+    Dword  228
+    Byte  2
+    Byte  58
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 128
+    Dword  231
+    Byte  34
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 134
+    Dword  231
+    Byte  1
+    Byte  0
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 134
+    Dword  231
+    Byte  0
+    Byte  4
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 129
+    Dword  231
+    Byte  4
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 127
+    Dword  231
+    Byte  0
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 136
+    Dword  231
+    Byte  0
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 133
+    Dword  231
+    ArrayField  
+    {
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 119
+    Dword  231
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 142
+    Dword  231
+    Byte  6
+    Byte  0
+    ArrayField  
+    {
+    }
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 147
+    Dword  231
+    Byte  0
+    String  
+    Dword  0
+    Dword  0
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 147
+    Dword  231
+    Byte  1
+    String  
+    Dword  0
+    Dword  0
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 147
+    Dword  231
+    Byte  2
+    String  
+    Dword  0
+    Dword  0
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 147
+    Dword  231
+    Byte  3
+    String  
+    Dword  0
+    Dword  0
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 143
+    Dword  231
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 201
+    Dword  231
+    Dword  8
+    Dword  8
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 216
+    Dword  231
+    Dword  1
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 268
+    Dword  231
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 272
+    Dword  231
+    Byte  5
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 269
+    Dword  231
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 173
+    Dword  2
+    Byte  0
+    Dword  0
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 278
+    Dword  2
+    Byte  0
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 188
+    Dword  2
+    Byte  0
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 187
+    Dword  2
+    Dword  0
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 57
+    Dword  2
+    Dword  311
+    Dword  179
+    Dword  20
+}
+
+
+248211771:
+GStoC Packet 
+{
+    Header 681
+    Dword  2
+    Byte  10
+    Byte  5
+}
+
+

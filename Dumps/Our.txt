@@ -1,0 +1,192 @@
+256484753:
+CtoLS Packet 
+{
+    Header 2
+    String  user
+    String  USER
+}
+
+
+256484753:
+CtoLS Packet 
+{
+    Header 3
+    Dword  18200
+    fixed size buffer  c8 ad 68 ba 22 78 2d 4c 97 e3 92 12 d2 06 2a 9d 
+
+}
+
+
+256484831:
+CtoLS Packet 
+{
+    Header 1
+    Dword  256484827
+}
+
+
+256484831:
+CtoLS Packet 
+{
+    Header 10
+    Dword  1
+    UID  376830DD-E6ED-E111-BBF3-78E7D1936222
+    UID  CC66A8B0-B24E-41D1-B018-51B66DA0B4B0
+    String  
+}
+
+
+256484878:
+LStoC Packet 
+{
+    Header 2
+    Dword  0
+}
+
+
+256484878:
+LStoC Packet 
+{
+    Header 1
+    Dword  0
+}
+
+
+256485767:
+LStoC Packet 
+{
+    Header 10
+    Dword  1
+    large buffer  
+}
+
+
+256485767:
+LStoC Packet 
+{
+    Header 8
+    Dword  1
+    UID  00000000-0000-0000-0000-000000000000
+    UID  00000000-0000-0000-0000-000000000000
+    Dword  2
+    Dword  5
+    Dword  389876543
+    Dword  2007
+    Dword  2007
+    Dword  3
+    fixed size buffer  ef 51 48 ca 2d 00 3f c8 6f e2 b1 37 21 b9 87 0d 
+d9 47 1f e6 71 d7 48 56 9e d3 aa 4c a6 61 f7 75 
+
+    ArrayField  
+    {
+        struct  
+        {
+            Word  0
+            Word  0
+            Dword  0
+            Dword  0
+            Dword  0
+        }
+    }
+    fixed size buffer  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+}
+
+
+256485767:
+LStoC Packet 
+{
+    Header 16
+    Dword  1
+    UID  00000000-0000-0000-0000-000000000000
+    Dword  0
+    Dword  0
+    Dword  0
+    Dword  0
+    Dword  0
+}
+
+
+256485767:
+LStoC Packet 
+{
+    Header 23
+}
+
+
+256485767:
+LStoC Packet 
+{
+    Header 25
+    Dword  2203
+    Dword  0
+    Dword  0
+    Dword  168
+}
+
+
+256485767:
+LStoC Packet 
+{
+    Header 25
+    Dword  1001
+    Dword  1
+    Dword  100
+    Dword  168
+}
+
+
+256485767:
+LStoC Packet 
+{
+    Header 25
+    Dword  2007
+    Dword  0
+    Dword  100
+    Dword  168
+}
+
+
+256485767:
+LStoC Packet 
+{
+    Header 24
+}
+
+
+256485767:
+LStoC Packet 
+{
+    Header 4
+    Dword  1
+    Dword  0
+    Dword  49
+    Dword  7004
+    Dword  823
+}
+
+
+256485799:
+CtoLS Packet 
+{
+    Header 4
+    small buffer  03 00 60 00 02 00 db 03 f6 08 62 0f 41 75 74 68 
+65 6e 74 69 63 41 4d 44 06 01 fc 0f 06 00 00 00 
+80 94 00 00 a6 02 00 00 02 10 00 00 fa 03 20 90 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 40 01 00 00 
+
+    UID  BA68ADC8-7822-4C2D-97E3-9212D2062A9D
+}
+
+
+256485845:
+CtoLS Packet 
+{
+    Header 34
+    Dword  0
+}
+
+

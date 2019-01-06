@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GW2Emu.AuthServer", "..\..\GW2Emu.AuthServer\GW2Emu.AuthServer.csproj", "{3610F030-3B8C-4DAA-B5A6-592AEA975144}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GW2Emu.Common", "..\..\GW2Emu.Common\GW2Emu.Common.csproj", "{5F01AC85-A3ED-4A70-BDFD-EB15F74B83A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GW2Emu.GameServer", "..\..\GW2Emu.GameServer\GW2Emu.GameServer.csproj", "{5B1B071F-5908-41C6-B8AA-985C0546D026}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GW2Emu.GateServer", "..\..\GW2Emu.GateServer\GW2Emu.GateServer.csproj", "{89A35270-CCCD-4FC1-8207-858D1547C515}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3610F030-3B8C-4DAA-B5A6-592AEA975144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3610F030-3B8C-4DAA-B5A6-592AEA975144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3610F030-3B8C-4DAA-B5A6-592AEA975144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3610F030-3B8C-4DAA-B5A6-592AEA975144}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F01AC85-A3ED-4A70-BDFD-EB15F74B83A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F01AC85-A3ED-4A70-BDFD-EB15F74B83A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F01AC85-A3ED-4A70-BDFD-EB15F74B83A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F01AC85-A3ED-4A70-BDFD-EB15F74B83A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B1B071F-5908-41C6-B8AA-985C0546D026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B1B071F-5908-41C6-B8AA-985C0546D026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B1B071F-5908-41C6-B8AA-985C0546D026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B1B071F-5908-41C6-B8AA-985C0546D026}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89A35270-CCCD-4FC1-8207-858D1547C515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A35270-CCCD-4FC1-8207-858D1547C515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A35270-CCCD-4FC1-8207-858D1547C515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A35270-CCCD-4FC1-8207-858D1547C515}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

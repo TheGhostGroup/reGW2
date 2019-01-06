@@ -1,0 +1,48 @@
+429531000:
+CtoGS Packet SelectedSkill
+{
+    Header 15
+    Word  7486
+    Dword  50026
+    Byte  3
+    Dword  2147548633
+    small buffer  36 00 00 00 00 05 
+}
+
+
+429531109:
+CtoGS Packet SelectedSkill
+{
+    Header 15
+    Word  7486
+    Dword  50029
+    Byte  3
+    Dword  2147548634
+    small buffer  38 
+}
+
+
+429531312:
+GStoC Packet SkillUsing
+{
+    Header 48
+    Word  7486
+    Dword  1337420
+    Byte  3
+    Dword  2147548633
+    small buffer  36 00 00 00 00 05 
+}
+
+
+429531421:
+GStoC Packet SkillUsing
+{
+    Header 48
+    Word  7486
+    Dword  1337423
+    Byte  3
+    Dword  2147548634
+    small buffer  38 
+}
+
+

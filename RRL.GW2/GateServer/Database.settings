@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RRL.GW2.GateServer" GeneratedClassName="Database">
+  <Profiles />
+  <Settings>
+    <Setting Name="MySql_Host" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="MySql_Port" Type="System.Int16" Scope="User">
+      <Value Profile="(Default)">3306</Value>
+    </Setting>
+    <Setting Name="MySql_User" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="MySql_Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="MySql_Database" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RRL_Gw2GtSrv</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

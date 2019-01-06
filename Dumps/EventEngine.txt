@@ -1,0 +1,37 @@
+238275303:
+GStoC Packet EventEngineStart
+{
+    Header 344
+    Dword EventNumber 4129
+    String Quest Defend Shaemoor Garrison from Tamini attackers.
+    String History Tamini centaurs are attacking Shaemoor Garrison, which stands as the last line of defense between the centaur horde and Shaemoor village. Repel the centaur forces.
+    Byte Level 6
+    Byte  0
+    Dword isInstance 0
+}
+
+
+238275303:
+GStoC Packet EventEngineUnknown
+{
+    Header 349
+    Dword EventNumber 4129
+    Dword  75
+}
+
+
+238275303:
+GStoC Packet EventEngineUnknown
+{
+    Header 349
+    Dword EventNumber 4129
+    Dword  76
+}
+
+
+238275303:
+GStoC Packet EventEngineInfoCompleted
+{
+    Header 345
+    Dword EventNumber 4129
+}

@@ -1,0 +1,1161 @@
+88702464:
+CtoLS Packet ComputerName
+{
+    Header 2
+    String  user
+    String  USER
+}
+
+
+88702464:
+CtoLS Packet ClientVersion and PublicKey
+{
+    Header 3
+    Dword  18200
+    fixed size buffer  c8 ad 68 ba 22 78 2d 4c 97 e3 92 12 d2 06 2a 9d 
+
+}
+
+
+88702652:
+CtoLS Packet PingServer
+{
+    Header 1
+    Dword  88702635
+}
+
+
+88702652:
+CtoLS Packet SessionInfo
+{
+    Header 10
+    Dword  1
+    UID  A983638D-7652-E211-8756-78E7D1936222
+    UID  FD23AA1E-8F2E-452A-9B1A-AE63B7655A58
+    String  
+}
+
+
+88703042:
+LStoC Packet ComputerInfoReply
+{
+    Header 2
+    Dword  65321999
+}
+
+
+88703042:
+LStoC Packet PingServerReply
+{
+    Header 1
+    Dword  88702635
+}
+
+
+88703042:
+LStoC Packet ClientSync
+{
+    Header 4
+    Dword  1
+    Dword  21
+    Dword  6
+    Dword  3
+    Dword  2114
+}
+
+
+88703494:
+CtoLS Packet ComputerName
+{
+    Header 2
+    String  user
+    String  USER
+}
+
+
+88703494:
+CtoLS Packet ClientVersion and PublicKey
+{
+    Header 3
+    Dword  18200
+    fixed size buffer  c8 ad 68 ba 22 78 2d 4c 97 e3 92 12 d2 06 2a 9d 
+
+}
+
+
+88703572:
+LStoC Packet ComputerInfoReply
+{
+    Header 2
+    Dword  3132318399
+}
+
+
+88703572:
+CtoLS Packet PingServer
+{
+    Header 1
+    Dword  88703559
+}
+
+
+88703572:
+CtoLS Packet SessionInfo
+{
+    Header 10
+    Dword  2
+    UID  A983638D-7652-E211-8756-78E7D1936222
+    UID  F2334826-43C5-4EBA-9AE4-B731C7F5A098
+    String  
+}
+
+
+88704617:
+LStoC Packet PingServerReply
+{
+    Header 1
+    Dword  88703559
+}
+
+
+88704617:
+LStoC Packet CharacterInfo
+{
+    Header 17
+    Dword  2
+    UID  0340D2A8-7A52-E211-BCD1-441EA102B1B6
+    Dword  0
+    String  Char
+    large buffer  07 0f 00 31 3c 01 09 00 05 7b 00 00 7e 40 63 7f 
+87 7e 03 00 17 0c 0d 00 b2 67 6b 57 78 4f 5e 4f 
+05 02 03 00 11 00 00 82 80 80 84 80 80 80 80 80 
+80 80 00 3c 84 00 00 3c 84 00 00 00 00 52 13 00 
+00 0d 00 d3 00 00 00 00 00 0f 19 00 00 d3 00 0d 
+00 d3 00 00 00 9e 12 00 00 0d 00 d3 00 00 00 00 
+00 b1 12 00 80 e2 00 d3 00 d4 00 00 00 ac 12 00 
+00 0d 00 d3 00 00 00 00 00 be 12 00 00 0d 00 d3 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 c3 24 b1 a0 
+}
+
+
+88704617:
+LStoC Packet CharacterInfo
+{
+    Header 17
+    Dword  2
+    UID  2CAE39B4-0479-E211-BCD1-441EA102B1B6
+    Dword  0
+    String  Character
+    large buffer  07 13 00 03 05 04 00 00 04 80 01 00 80 ff a7 88 
+ff d0 05 00 1e 00 02 00 80 80 7e c7 80 7a 80 ae 
+82 01 0b 00 0a 09 1d 8e 80 82 80 80 80 80 80 80 
+80 80 05 67 7e 00 00 67 7e 00 00 00 00 48 19 00 
+00 cc 00 d3 00 b3 00 00 00 46 19 00 00 cc 00 10 
+00 b3 00 00 00 7b 18 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 49 19 00 
+00 cc 00 10 00 b3 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 36 21 4f 46 
+}
+
+
+88704617:
+LStoC Packet AccountMedals
+{
+    Header 10
+    Dword  2
+    large buffer  50 46 01 00 00 00 0c 00 74 63 63 61 63 6f 72 65 
+0c 00 00 00 00 00 10 00 00 00 00 00 18 47 00 00 
+75 78 61 63 2c 00 00 00 02 00 10 00 1c 00 00 00 
+06 e5 62 00 01 55 55 00 03 7f 00 01 00 00 01 00 
+00 00 06 00 00 00 00 00 e7 00 00 00 01 00 00 00 
+12 00 00 00 70 6c 72 73 24 00 00 00 00 00 10 00 
+00 00 00 00 fe 01 00 00 00 30 ef 01 00 00 04 01 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+67 75 73 75 18 00 00 00 01 00 10 00 08 00 00 00 
+00 00 00 00 00 00 00 00 01 00 00 00 04 00 00 00 
+69 6e 70 74 20 00 00 00 00 00 10 00 0f 00 00 00 
+01 00 00 00 04 00 00 00 08 00 00 00 01 5d 00 01 
+00 00 00 04 00 00 00 00 63 68 61 74 54 00 00 00 
+01 00 10 00 3c 00 00 00 08 01 01 00 02 00 00 00 
+08 00 00 00 79 01 ce 00 08 dd 0f 00 00 0f 00 00 
+00 01 06 02 00 00 00 0f 00 00 00 01 4d 00 61 00 
+69 00 6e 00 00 00 43 00 6f 00 6d 00 62 00 61 00 
+74 00 00 00 03 00 00 00 08 00 00 00 15 00 00 00 
+1f 00 00 00 75 6d 61 70 10 00 00 00 00 00 10 00 
+00 00 00 00 02 ff 00 aa 00 aa 00 00 64 6c 6f 67 
+6c 00 00 00 00 00 10 00 59 00 00 00 09 00 00 00 
+04 00 00 00 00 24 fe dc 01 6e 01 92 fe 18 a0 fe 
+28 00 3f 00 9a 02 00 d9 fd b9 01 76 01 9a fe 04 
+bf 03 df ff 6d 01 92 fe 0a 57 00 9c 01 3e 00 dc 
+01 04 36 01 64 00 c7 00 bd ff 00 9f fe 97 01 22 
+01 aa fe 00 38 ff 74 01 56 01 c0 fe 00 f0 fe 10 
+01 21 01 4d ff 01 00 00 00 04 00 00 00 00 00 00 
+
+}
+
+
+88704617:
+LStoC Packet 
+{
+    Header 27
+    Dword  2
+    ArrayField  
+    {
+        struct  
+        {
+            Dword  0
+            Dword  8
+        }
+        struct  
+        {
+            Dword  1
+            Dword  59
+        }
+        struct  
+        {
+            Dword  2
+            Dword  1
+        }
+        struct  
+        {
+            Dword  3
+            Dword  4
+        }
+        struct  
+        {
+            Dword  4
+            Dword  4
+        }
+        struct  
+        {
+            Dword  5
+            Dword  4
+        }
+        struct  
+        {
+            Dword  6
+            Dword  3
+        }
+        struct  
+        {
+            Dword  7
+            Dword  4
+        }
+        struct  
+        {
+            Dword  8
+            Dword  8
+        }
+        struct  
+        {
+            Dword  9
+            Dword  4
+        }
+        struct  
+        {
+            Dword  10
+            Dword  4
+        }
+        struct  
+        {
+            Dword  11
+            Dword  4
+        }
+        struct  
+        {
+            Dword  12
+            Dword  1
+        }
+        struct  
+        {
+            Dword  13
+            Dword  8
+        }
+        struct  
+        {
+            Dword  14
+            Dword  4
+        }
+        struct  
+        {
+            Dword  15
+            Dword  10
+        }
+        struct  
+        {
+            Dword  16
+            Dword  1
+        }
+        struct  
+        {
+            Dword  17
+            Dword  1
+        }
+        struct  
+        {
+            Dword  18
+            Dword  4
+        }
+        struct  
+        {
+            Dword  19
+            Dword  1
+        }
+        struct  
+        {
+            Dword  20
+            Dword  1
+        }
+        struct  
+        {
+            Dword  21
+            Dword  1
+        }
+        struct  
+        {
+            Dword  22
+            Dword  1
+        }
+        struct  
+        {
+            Dword  23
+            Dword  1
+        }
+        struct  
+        {
+            Dword  24
+            Dword  8
+        }
+        struct  
+        {
+            Dword  25
+            Dword  8
+        }
+        struct  
+        {
+            Dword  26
+            Dword  8
+        }
+        struct  
+        {
+            Dword  27
+            Dword  8
+        }
+        struct  
+        {
+            Dword  28
+            Dword  8
+        }
+        struct  
+        {
+            Dword  29
+            Dword  8
+        }
+    }
+}
+
+
+88704867:
+LStoC Packet AccountInfo
+{
+    Header 8
+    Dword  2
+    UID  0D0E94CF-7552-E211-BCD1-441EA102B1B6
+    UID  0340D2A8-7A52-E211-BCD1-441EA102B1B6
+    Dword  2
+    Dword  5
+    Dword  389980634
+    Dword  2007
+    Dword  2007
+    Dword  3
+    fixed size buffer  ef 51 48 ca 2d 00 3f c8 6f e2 b1 37 21 b9 87 0d 
+d9 47 1f e6 71 d7 48 56 9e d3 aa 4c a6 61 f7 75 
+
+    ArrayField  
+    {
+        struct  
+        {
+            Word  2
+            Word  1
+            Dword  1109884696
+            Dword  0
+            Dword  0
+        }
+    }
+    fixed size buffer  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+}
+
+
+88704867:
+LStoC Packet 
+{
+    Header 16
+    Dword  2
+    UID  0D0E94CF-7552-E211-BCD1-441EA102B1B6
+    Dword  0
+    Dword  8911214
+    Dword  168
+    Dword  1800
+    Dword  0
+}
+
+
+88704867:
+LStoC Packet 
+{
+    Header 23
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 1001
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 1002
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 1003
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 1004
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 1005
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 1006
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 1007
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 1008
+    Dword Population 3
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 1009
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 1010
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 1011
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 1012
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 1013
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 1014
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 1015
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 1016
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 1017
+    Dword Population 3
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 1018
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 1019
+    Dword Population 3
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 1020
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 1021
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 1022
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 1023
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 1024
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 2001
+    Dword Population 0
+    Dword TransferCost 500
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 2002
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 2003
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 2004
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 2005
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 2006
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 2007
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 2008
+    Dword Population 0
+    Dword TransferCost 500
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 2009
+    Dword Population 0
+    Dword TransferCost 500
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 2010
+    Dword Population 0
+    Dword TransferCost 500
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 2011
+    Dword Population 0
+    Dword TransferCost 500
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 2012
+    Dword Population 0
+    Dword TransferCost 500
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 2013
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 2014
+    Dword Population 0
+    Dword TransferCost 500
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 2101
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 2102
+    Dword Population 0
+    Dword TransferCost 500
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 2103
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 2104
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 2105
+    Dword Population 0
+    Dword TransferCost 500
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 2201
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 2202
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 2203
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 2204
+    Dword Population 0
+    Dword TransferCost 500
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 2205
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 2206
+    Dword Population 0
+    Dword TransferCost 500
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 2207
+    Dword Population 0
+    Dword TransferCost 500
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet GameServerInfo
+{
+    Header 25
+    Dword ServerId 2301
+    Dword Population 2
+    Dword TransferCost 1800
+    Dword  168
+}
+
+
+88704867:
+LStoC Packet 
+{
+    Header 24
+}
+
+
+88704882:
+CtoLS Packet 
+{
+    Header 4
+    small buffer  03 00 60 00 02 00 db 03 f6 08 62 0f 41 75 74 68 
+65 6e 74 69 63 41 4d 44 06 01 fc 0f 06 00 00 00 
+80 94 00 00 a6 02 00 00 02 10 00 00 fa 03 20 90 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 40 01 00 00 
+
+    UID  BA68ADC8-7822-4C2D-97E3-9212D2062A9D
+}
+
+
+88704929:
+CtoLS Packet 
+{
+    Header 34
+    Dword  0
+}
+
+
+88823568:
+CtoLS Packet PingServer
+{
+    Header 1
+    Dword  88823559
+}
+
+
+88914860:
+CtoLS Packet 
+{
+    Header 29
+    Dword  3
+    Dword  1
+    Dword  0
+    Dword  0
+    Dword  0
+}
+
+
+88914922:
+LStoC Packet ClientSync
+{
+    Header 4
+    Dword  2
+    Dword  0
+    Dword  49
+    Dword  7004
+    Dword  823
+}
+
+
+88943580:
+CtoLS Packet PingServer
+{
+    Header 1
+    Dword  88943567
+}
+
+
+88955779:
+CtoLS Packet 
+{
+    Header 14
+    Dword  5
+    Dword ServerId 2007
+    Byte  1
+}
+
+
+88955841:
+LStoC Packet PingServerReply
+{
+    Header 1
+    Dword  88823559
+}
+
+
+88955841:
+LStoC Packet RedirectToGameServer
+{
+    Header 20
+    Dword  3
+    Dword  1
+    Dword  3897528456
+    Dword  0
+    ip address  206.127.159.102
+    Dword  2614355697
+}
+
+
+88955841:
+CtoLS Packet SelectCharacter
+{
+    Header 22
+    Dword  6
+    String Nickname Senjora Krako
+}
+
+
+88955904:
+LStoC Packet PingServerReply
+{
+    Header 1
+    Dword  88943567
+}
+
+
+88955904:
+LStoC Packet ClientSync
+{
+    Header 4
+    Dword  5
+    Dword  0
+    Dword  4
+    Dword  5
+    Dword  2923
+}
+
+
+88955919:
+CtoLS Packet 
+{
+    Header 29
+    Dword  7
+    Dword  9
+    Dword  0
+    Dword  138
+    Dword  0
+}
+
+
+88956044:
+LStoC Packet AccountInfo
+{
+    Header 8
+    Dword  6
+    UID  0D0E94CF-7552-E211-BCD1-441EA102B1B6
+    UID  98F79EF5-53BA-E211-BCD1-441EA102B1B6
+    Dword  2
+    Dword  5
+    Dword  389980885
+    Dword  2007
+    Dword  2007
+    Dword  3
+    fixed size buffer  ef 51 48 ca 2d 00 3f c8 6f e2 b1 37 21 b9 87 0d 
+d9 47 1f e6 71 d7 48 56 9e d3 aa 4c a6 61 f7 75 
+
+    ArrayField  
+    {
+        struct  
+        {
+            Word  2
+            Word  1
+            Dword  1109884696
+            Dword  0
+            Dword  0
+        }
+    }
+    fixed size buffer  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+}
+
+
+88956044:
+LStoC Packet ClientSync
+{
+    Header 4
+    Dword  6
+    Dword  0
+    Dword  1002
+    Dword  3
+    Dword  3443
+}
+
+
